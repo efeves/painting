@@ -9,7 +9,7 @@ float: left;
 .oneblock{
   background-color: #b35552;
   height: 30vh;
-  width: 25%;
+  width: 35%;
   display: inline-table;
 }
 
@@ -44,6 +44,6 @@ float: left;
 .sixblock{
   background-color: #2ce086;
   height: 30vh;
-  width: 45%;
+  width: 55%;
   display: inline-table;
 }

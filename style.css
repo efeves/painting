@@ -3,13 +3,14 @@ body{
 }
 
 div{
-float: left;
+  float: left;
+  allign: center;
 }
 
 .oneblock{
   background-color: #b35552;
   height: 30vh;
-  width: 35%;
+  width: 25%;
   display: inline-table;
 }
 
@@ -44,6 +45,6 @@ float: left;
 .sixblock{
   background-color: #2ce086;
   height: 30vh;
-  width: 55%;
+  width: 45%;
   display: inline-table;
 }

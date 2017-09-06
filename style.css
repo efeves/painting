@@ -1,0 +1,45 @@
+body{
+  background-color: #a5a8a1;
+}
+
+.oneblock{
+  background-color: #b35552;
+  height: 30vh;
+  width: 25%;
+  display: inline-table;
+}
+
+.twoblock{
+  background-color: #697b92;
+  height: 30vh;
+  width: 55%;
+  display: inline-table;
+}
+
+.threeblock{
+  background-color: #a98996;
+  height: 30vh;
+  width: 10%;
+  display: inline-table;
+}
+
+.fourblock{
+  background-color: #7c4f79;
+  height: 30vh;
+  width: 30%;
+  display: inline-table;
+}
+
+.fiveblock{
+  background-color: #cd9c46;
+  height: 30vh;
+  width: 15%;
+  display: inline-table;
+}
+
+.sixblock{
+  background-color: #2ce086;
+  height: 30vh;
+  width: 55%;
+  display: inline-table;
+}
